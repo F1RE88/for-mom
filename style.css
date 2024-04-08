@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&family=Reem+Kufi+Fun:wght@400..700&display=swap');
+body{
+    font-family: "Rakkas", serif;
+    background-color: rgb(251, 74, 180);
+    color: white;
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+}
+.text{
+    font-size: 30px;
+}
+.end{
+    font-size: 35px;
+    text-align: center;
+    color: red;
+}
+.btn{
+    background-color: red;
+    border: 3px yellow double;
+    color: rgb(251, 74, 180);
+    border-radius: 10px;
+}
